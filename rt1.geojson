@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ranchi",
+        "station": "Ranchi Railway Station",
+        "code": "R"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3318,
+          23.3532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Delhi",
+        "station": "Delhi Railway Station",
+        "code": "DEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2220,
+          28.6443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Mumbai",
+        "station": "Lokmanya Tilak Terminus",
+        "code": "LOKMANYA TILAK STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8816,
+          19.0638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bangalore",
+        "station": "KR Puram Station",
+        "code": "BLR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7145,
+          12.9947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Goa (South Goa)",
+        "station": "Madgaon Railway Station",
+        "code": "GOA-C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9655,
+          15.2863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Chennai",
+        "station": "Chennai Central",
+        "code": "CHN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2707,
+          13.0827
+        ]
+      }
+    }
+  ]
+}
