@@ -313,6 +313,19 @@
           [80.2707, 13.0827]   
         ]
       }
+    },{
+      "type": "Feature",
+      "properties": {
+        "route_name": "Route 1a",
+        "description": "RANCHI -> DELHI (Straight Line Bypass of Route 1)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [85.3318, 23.3532], 
+          [77.2220, 28.6443] 
+        ]
+      }
     }
   ]
 }
