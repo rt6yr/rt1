@@ -1,0 +1,290 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Ranchi",
+        "station": "Ranchi Railway Station",
+        "code": "R"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3318,
+          23.3532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Delhi",
+        "station": "Delhi Railway Station",
+        "code": "DEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2220,
+          28.6443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Mumbai",
+        "station": "Lokmanya Tilak Terminus",
+        "code": "LOKMANYA TILAK STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8816,
+          19.0638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Bangalore",
+        "station": "KR Puram Station",
+        "code": "BLR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7145,
+          12.9947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Goa (South Goa)",
+        "station": "Madgaon Railway Station",
+        "code": "GOA-C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9655,
+          15.2863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Chennai",
+        "station": "Chennai Central",
+        "code": "CHN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2707,
+          13.0827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kharagpur",
+        "station": "Kharagpur Railway Station",
+        "code": "KGP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3254,
+          22.3433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kolkata",
+        "station": "Howrah Railway Station",
+        "code": "Howrah Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3299,
+          22.5954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Prayagraj",
+        "station": "Prayagraj Railway Station",
+        "code": "PRYJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.8333,
+          25.4358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Kanpur",
+        "station": "Kanpur Railway Station",
+        "code": "KNP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3500,
+          26.4729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Varanasi (near)",
+        "station": "Deen Dayal Upadhyay Junction",
+        "code": "DEEN DAYAL UPADHAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1254,
+          25.2714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Rourkela",
+        "station": "Rourkela Railway Station",
+        "code": "ROUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.8824,
+          22.2547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Visakhapatnam",
+        "station": "Visakhapatnam Station",
+        "code": "VSKP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2944,
+          17.6911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Vizianagaram",
+        "station": "Vizianagaram Station",
+        "code": "VIGRANAM STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3950,
+          18.1129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Puri",
+        "station": "Puri Station",
+        "code": "PURI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8245,
+          19.8035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "city": "Digha",
+        "station": "Digha Station",
+        "code": "DGH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.5068,
+          21.6271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_name": "Route 1",
+        "description": "RNC -> BENARAS -> PRAYAGRAJ -> KANPUR -> DELHI"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [85.3318, 23.3532], 
+          [83.1254, 25.2714], 
+          [81.8333, 25.4358], 
+          [80.3500, 26.4729], 
+          [77.2220, 28.6443]   
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_name": "Route 2",
+        "description": "RNC -> MUMBAI"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [85.3318, 23.3532],  
+          [72.8816, 19.0638]  
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "route_name": "Route 3",
+        "description": "DELHI -> MUMBAI"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.2220, 28.6443], 
+          [72.8816, 19.0638]  
+        ]
+      }
+    }
+  ]
+}
